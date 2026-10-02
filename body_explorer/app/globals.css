@@ -86,3 +86,6 @@ h1 .edition{font-family:inherit;font-weight:500;font-size:10px;letter-spacing:.0
 @media(max-width:767px){body:has(.detail-sheet) .view-controls{visibility:hidden}}
 
 @media(max-height:600px) and (orientation:landscape){body:has(.detail-sheet) .bottom-dock{left:12px;right:324px;width:auto;transform:none;max-width:none;margin:0}}
+
+.selection-label{position:absolute;left:50%;bottom:118px;z-index:20;display:flex;align-items:center;gap:8px;max-width:min(420px,calc(100% - 32px));padding:8px 12px;transform:translateX(-50%);border:1px solid #d5e2e1;border-radius:8px;background:#ffffffed;box-shadow:0 8px 24px #24334416;color:#29404a;pointer-events:none}.selection-label span{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:#6c858b}.selection-label strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px;font-weight:600;text-transform:capitalize}
+@media(max-width:767px){.selection-label{bottom:122px;max-width:calc(100% - 24px);font-size:12px}}

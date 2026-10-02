@@ -167,7 +167,7 @@
     const c=navigation.concepts[data.concept_id];if(c&&!data.part_ids.every(id=>c.part_ids.includes(id)))return;
     region=c?.region||'general';$('symptomSearch').value='';limit=8;renderCards();
     $('appStatus').textContent=(c?.label||'Unmapped anatomy')+' selected for navigation. No symptom answer was changed.';
-    closeExplorer();$('resultsPanel').hidden=true;$('interviewPanel').hidden=false;$('interviewHeading').hidden=false;$('symptomSearch').focus();
+    $('explorerStatus').textContent=(c?.label||'Unmapped anatomy')+' selected. Review the structure name in the viewer; close it when finished.';$('resultsPanel').hidden=true;$('interviewPanel').hidden=false;$('interviewHeading').hidden=false;
     document.querySelectorAll('[data-region]').forEach(b=>{const active=b.dataset.region===region;b.classList.toggle('active',active);b.setAttribute('aria-pressed',active);});
   });
   $('age').value=state.demographics.age??'';$('datasetSex').value=state.demographics.dataset_sex;$('complaintScope').value=state.complaint_scope||'supported';
