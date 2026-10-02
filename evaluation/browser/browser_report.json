@@ -1,0 +1,334 @@
+{
+  "checks": [
+    {
+      "name": "actual artifact ready",
+      "passed": true
+    },
+    {
+      "name": "home and interview are lazy",
+      "passed": true
+    },
+    {
+      "name": "Present and Absent survive actual prediction, ranked results",
+      "passed": true
+    },
+    {
+      "name": "follow-up Unknown skip does not repeat",
+      "passed": true
+    },
+    {
+      "name": "parent change clears categorical zero and dependent answers",
+      "passed": true
+    },
+    {
+      "name": "controlled text requires confirmation, input is escaped",
+      "passed": true
+    },
+    {
+      "name": "incomplete multi-choice contributes only after explicit completion",
+      "passed": true
+    },
+    {
+      "name": "viewer actually renders; forged message is rejected; selection preserves answers",
+      "passed": true
+    },
+    {
+      "name": "urgent safety interrupts model results",
+      "passed": true
+    },
+    {
+      "name": "360px mobile, Hindi labels, keyboard and reduced motion",
+      "passed": true
+    },
+    {
+      "name": "service failure preserves editable evidence",
+      "passed": true
+    },
+    {
+      "name": "answers changed in flight reject stale rankings",
+      "passed": true
+    },
+    {
+      "name": "no-WebGL fallback, frame close, evidence retained",
+      "passed": true
+    },
+    {
+      "name": "no-JavaScript form and SSR rankings",
+      "passed": true
+    }
+  ],
+  "failures": [],
+  "page_errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:5073/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/body-outline.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/lang.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/translations/en",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/mark.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/predict",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/body-outline.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/lang.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/symptoms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/translations/en",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/mark.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/predict",
+      "method": "POST"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/next-question",
+      "method": "POST"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/next-question",
+      "method": "POST"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/extract-symptoms",
+      "method": "POST"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/index.html",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/assets/index-BFCn2cdn.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/assets/index-BKTVXAkg.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/atlas.json",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-0.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-1.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-2.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-3.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-4.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-5.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-6.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-7.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-8.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-9.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-10.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-11.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-12.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-13.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/body-map/models/body-14.bin.gz",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/predict",
+      "method": "POST"
+    },
+    {
+      "url": "http://127.0.0.1:5073/predict",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/body-outline.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/lang.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/symptoms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/translations/en",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/mark.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/translations/hi",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/predict",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/body-outline.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/lang.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/symptoms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/translations/en",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/mark.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/predict",
+      "method": "POST"
+    },
+    {
+      "url": "http://127.0.0.1:5073/predict",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/body-outline.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/lang.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/js/symptoms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/translations/en",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/static/assets/mark.svg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:5073/api/predict",
+      "method": "POST"
+    }
+  ],
+  "passed": true,
+  "privacy_check": {
+    "localStorage_entries": 0,
+    "cookies": 0
+  },
+  "browser_version": "154.0.8037.93"
+}

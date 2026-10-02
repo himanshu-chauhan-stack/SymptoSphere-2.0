@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "flask",
+  "buildCommand": "python scripts/prepare_staging.py",
+  "functions": {
+    "app.py": {
+      "excludeFiles": "{static/**,public/**,body_explorer/**,legacy/**,dataset/**,ML_models/**,assets/**,tests/**,evaluation/**,docs/**,ml/train_ddxplus.py,ml/ddxplus_data.py,ml/evaluate.py,ml/test_ddxplus.py,**/__pycache__/**,**/*.pyc,*.md,requirements-train.txt,train.py}"
+    }
+  },
+  "headers": [
+    {"source": "/static/(.*)", "headers": [{"key": "X-Content-Type-Options", "value": "nosniff"}, {"key": "Referrer-Policy", "value": "no-referrer"}]},
+    {"source": "/static/body-map/index.html", "headers": [{"key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}]}
+  ]
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "path": "CODEX_IMPLEMENTATION_HANDOFF.md",
+    "bytes": 15630,
+    "sha256": "6cc324f99f406722dcdf08d18076f00209e22eb17dff95f011283df75d46c3c9",
+    "text_lines": 107
+  },
+  {
+    "path": "COLLEGE_CONTENT_DRAFT.md",
+    "bytes": 3947,
+    "sha256": "c72ad7fba8ed8745f5c13e3b9c22acd37df4ab0502f71d8b4d55ff142bfacf76",
+    "text_lines": 35
+  },
+  {
+    "path": "DATASET_MODEL_DECISION.md",
+    "bytes": 14722,
+    "sha256": "c59638e938bb29caed1ff485a4fcef26b7796308f27b50c5e3d3f4beea6c2c57",
+    "text_lines": 95
+  },
+  {
+    "path": "evidence\\5th sem_Summer Training Report 1  ES 361Format.txt",
+    "bytes": 7975,
+    "sha256": "6931b68e196b068b20b0b188f3712fe243ee81d74855cc104aec11b132b5bb56",
+    "text_lines": 359
+  },
+  {
+    "path": "evidence\\atlas_manifest_audit.json",
+    "bytes": 806,
+    "sha256": "d2e5383c29012e09f9dc05d77779f6dd81cf6eb4589092c38d251413e4146793",
+    "parsed_entries": 10
+  },
+  {
+    "path": "evidence\\atlas_provenance.json",
+    "bytes": 41216,
+    "sha256": "332c8337a285e2df7d1d155d041f3390eb4735f3fc781d2d7cb73736068b4f18",
+    "parsed_entries": 5
+  },
+  {
+    "path": "evidence\\browser_observations.json",
+    "bytes": 906,
+    "sha256": "2cd44d6c539bd07c6cfc8e11b2a192116a4e6c4d111ce38d3b9a53f3844ccca1",
+    "parsed_entries": 10
+  },
+  {
+    "path": "evidence\\ddx_article.json",
+    "bytes": 5635,
+    "sha256": "5859460d36834eaea1e9692ca37d070458b6c456bd91e40879b9f8ff55596dab",
+    "parsed_entries": 50
+  },
+  {
+    "path": "evidence\\ddx_citation.cff",
+    "bytes": 481,
+    "sha256": "3f2f090e2852275dd925a61c357977d50d5ec479c44e497e03cba8a27043fad6",
+    "text_lines": 17
+  },
+  {
+    "path": "evidence\\ddx_data_audit.json",
+    "bytes": 8035,
+    "sha256": "327a39d4c23b348092d360651c1602c0f0fbef167bbaf7c60972f404552f8b55",
+    "parsed_entries": 8
+  },
+  {
+    "path": "evidence\\ddx_paper.pdf",
+    "bytes": 979769,
+    "sha256": "3895f2690a7046dcd33a9271f0f0b20eb7baf738ec1d5c8d67f61f2f43862502",
+    "pages_read": 32
+  },
+  {
+    "path": "evidence\\ddx_pilot_results.json",
+    "bytes": 55354,
+    "sha256": "0116ffdba57e92b282fa6a0fc3b19c794a5b189046c3df5873a9e38131f20707",
+    "parsed_entries": 24
+  },
+  {
+    "path": "evidence\\ddx_readme.md",
+    "bytes": 13625,
+    "sha256": "257fbd5ff7c197b1641f16907beeed862aaddebf22b4303f368e613e424afa05",
+    "text_lines": 267
+  },
+  {
+    "path": "evidence\\Group Formation Form.txt",
+    "bytes": 2133,
+    "sha256": "77503f2e68fb2e8354a95b2b55f1df987e248d9a9fd1212b763606d7dfe5f26b",
+    "text_lines": 40
+  },
+  {
+    "path": "evidence\\legacy_baseline_results.json",
+    "bytes": 3135,
+    "sha256": "f03446873fe5221b039298fb7d55ce1623a8fa0759a629562855d45c88b01f63",
+    "parsed_entries": 22
+  },
+  {
+    "path": "evidence\\legacy_data_audit.json",
+    "bytes": 2789,
+    "sha256": "a71be208c03253d67de083de52934013a00650af6c33f82a49cffdb1660094d4",
+    "parsed_entries": 17
+  },
+  {
+    "path": "evidence\\Project_Synopsis_Format.txt",
+    "bytes": 3077,
+    "sha256": "8eca1e4c4d0319d4404e89d053863669c95db1620629030fd42a9443fab8f65c",
+    "text_lines": 155
+  },
+  {
+    "path": "evidence\\release_conditions.json",
+    "bytes": 20889,
+    "sha256": "56edf4682d8e86a4209fc3a33932e50ce03d1cc1fecc326c26d5ef8fa5c24890",
+    "parsed_entries": 49
+  },
+  {
+    "path": "evidence\\release_evidences.json",
+    "bytes": 120263,
+    "sha256": "281c78b044ae60514e28ecc9052d08a8225dd3e2db3f00f8788b99c47b05e0c0",
+    "parsed_entries": 223
+  },
+  {
+    "path": "evidence\\source_file_inventory.json",
+    "bytes": 16154,
+    "sha256": "a3b69596ac527472e885e5c8eb4435740f58e43d110f853a12b4b7afccc4bc94",
+    "parsed_entries": 55
+  },
+  {
+    "path": "evidence\\sources.json",
+    "bytes": 2620,
+    "sha256": "31f2611074a3dba7f6a31546756a558bd879e11b763bde3de930973573cca5c8",
+    "parsed_entries": 9
+  },
+  {
+    "path": "evidence\\supplied_inventory.json",
+    "bytes": 2121,
+    "sha256": "1c06b14bba1d90dceb608f95f736072561ce800afd0ffee666c02222eebb0c2c",
+    "parsed_entries": 5
+  },
+  {
+    "path": "evidence\\supplied_video_metadata.txt",
+    "bytes": 2345,
+    "sha256": "7b4d3dc9fb7274295fbd9ac45435f5bf1b72356be793cd9896b03afb0c729f2e",
+    "text_lines": 27
+  },
+  {
+    "path": "evidence\\symptosphere_provenance.json",
+    "bytes": 24275,
+    "sha256": "541760f3f58ccd36b49364639b0541526a809a89f8dca7900b414188d622a8cd",
+    "parsed_entries": 5
+  },
+  {
+    "path": "evidence\\translation_audit.json",
+    "bytes": 105,
+    "sha256": "3eb884794d2a2ffd3e36198be7cfdcadfb1ac82a9d5e2b3490d9464f2f4a52cf",
+    "parsed_entries": 4
+  },
+  {
+    "path": "EXISTING_PROJECT_AUDIT.md",
+    "bytes": 12650,
+    "sha256": "a997f6c1bd10fe9760b6f2cd8202fde9cfaf964209556e1894a021a00a01b0cd",
+    "text_lines": 99
+  },
+  {
+    "path": "FINAL_FACT_CHECK.md",
+    "bytes": 2397,
+    "sha256": "c0d9098ea24a9fb2ef84105ecc8a524fc097e767b603f30dc3dc3adca1bb54a3",
+    "text_lines": 22
+  },
+  {
+    "path": "HANDOFF_VERIFICATION.json",
+    "bytes": 634,
+    "sha256": "2e0cf200f4b4458c4743dcd2aa1c80cccc4e6d99eb488620d42e8bbe9371acf1",
+    "parsed_entries": 4
+  },
+  {
+    "path": "OUTPUT_MANIFEST.json",
+    "bytes": 6927,
+    "sha256": "297c70b1b9c924364f883bf291d03ba7e026c7d6de64f533a49c4a52a12e500f",
+    "parsed_entries": 43
+  },
+  {
+    "path": "PROJECT_EVIDENCE_LEDGER.md",
+    "bytes": 15872,
+    "sha256": "4d47317dbc18492a349fc42347724cae930194e3675cc94981f95457b4b56d60",
+    "text_lines": 58
+  },
+  {
+    "path": "README_HANDOFF.md",
+    "bytes": 1540,
+    "sha256": "d438510f5bf3ea9019079e850c86dbb512aa88463113f9f3a877045062713f18",
+    "text_lines": 15
+  },
+  {
+    "path": "reproduction\\acquire.py",
+    "bytes": 2005,
+    "sha256": "a9259dbc22b9dc6019b277cf2285e65e68a57088d584397fd4ebe62cc473046e",
+    "text_lines": 27
+  },
+  {
+    "path": "reproduction\\atlas_manifest.py",
+    "bytes": 1041,
+    "sha256": "adc406b3a0bc0733526c1e5c811023f923bb8d2a9f737a2fd38c3e45af790fbc",
+    "text_lines": 7
+  },
+  {
+    "path": "reproduction\\baseline_audit.py",
+    "bytes": 5593,
+    "sha256": "5214850e04a219f4b23640cf97dd2d91839e81fc33d1e4f5f170db6a5bdf4e5a",
+    "text_lines": 44
+  },
+  {
+    "path": "reproduction\\ddx_audit.py",
+    "bytes": 3459,
+    "sha256": "f8c7062f2b1059f25b1786d35ab6a29c5045a3a9bc3ce833681fe84c21318535",
+    "text_lines": 32
+  },
+  {
+    "path": "reproduction\\ddx_pilot.py",
+    "bytes": 8053,
+    "sha256": "942aeffc63b32a62d135d4424b7e589bab959457af21030f0b61306c7aa9c39a",
+    "text_lines": 86
+  },
+  {
+    "path": "reproduction\\download_wheels.py",
+    "bytes": 1098,
+    "sha256": "20abd3c211180e5e6e651bb46c6b3f80cf3bc89d4eff01ae60286e11fc58f042",
+    "text_lines": 14
+  },
+  {
+    "path": "reproduction\\final_source_audit.py",
+    "bytes": 2741,
+    "sha256": "7ffde0b18d5037a306c3f54224a50b2af33bc016144dfe17d58f16abbc385abc",
+    "text_lines": 31
+  },
+  {
+    "path": "reproduction\\inspect_supplied.py",
+    "bytes": 1829,
+    "sha256": "0b94bf083fbb49e91af713aa8de499bb2a872f5bd91b0ab7fb57571c0dc80442",
+    "text_lines": 29
+  },
+  {
+    "path": "reproduction\\media_inspect.py",
+    "bytes": 1030,
+    "sha256": "c503323c8574b5af6e23270bca05ec9eacf2e0922c706aaff9eed9826c2bdb46",
+    "text_lines": 13
+  },
+  {
+    "path": "reproduction\\README.md",
+    "bytes": 2520,
+    "sha256": "eba03e3c52ac9a0104927308a43dcc87a60a26f6f57019a90b0de16fef3eed69",
+    "text_lines": 11
+  },
+  {
+    "path": "reproduction\\research_acquire.py",
+    "bytes": 1558,
+    "sha256": "e811970202446f417a33ef6c8835fe72a70d79a8eaf65d59d8db29eb269e2842",
+    "text_lines": 19
+  },
+  {
+    "path": "source_snapshots\\human-atlas_1c38bf3_text_manifest_only.zip",
+    "bytes": 419396,
+    "sha256": "e51b532e8ad15f28d6b4e39c419833b4c0674dec30d401bebe38c0c0c1d8f669",
+    "members": [
+      {
+        "path": "LICENSE",
+        "sha256": "db7a953239922e6e6460885afcbd47834fcb89f069b0b8c30f338cd76b322ded"
+      },
+      {
+        "path": "package-lock.json",
+        "sha256": "7442e01b64a04a4cc618793bc9ee8a544a9f22b298b3606613e332bf2513fd30"
+      },
+      {
+        "path": "package.json",
+        "sha256": "b24aadb3e70952799e90ffcb842aba30c37b8c70dc1c0f03220c6ac77bf481e4"
+      },
+      {
+        "path": "README.md",
+        "sha256": "40bc6b716ef69225f7acf8a7747ebcc0515070e4352166ca909c1a71b71c2ff5"
+      },
+      {
+        "path": "tsconfig.json",
+        "sha256": "51da76a3203c171e4126b76294c0b6ba8ce21c7f40e33feb9c933111b487b65e"
+      },
+      {
+        "path": "vercel.json",
+        "sha256": "d4e8dffd24a6ea3241c4fae1e946507a424de8acd85b5b755e695fc22c0abf61"
+      },
+      {
+        "path": "vite.config.ts",
+        "sha256": "5888023ff9565ff5957229928933bb13d1c4da8364b462407903c702256ee978"
+      },
+      {
+        "path": "_provenance.json",
+        "sha256": "332c8337a285e2df7d1d155d041f3390eb4735f3fc781d2d7cb73736068b4f18"
+      },
+      {
+        "path": "app/agent-tools.ts",
+        "sha256": "ba507880db4d9104d3615527cd417a54fa67b84765de740977c62aab80493da7"
+      },
+      {
+        "path": "app/anatomy.ts",
+        "sha256": "092ebc28e6ea1e70a3c78bc6bb6f0651c6714f83960aa3be2ee57434f4b610f4"
+      },
+      {
+        "path": "app/explosion-layout.ts",
+        "sha256": "d27298d58ea20ddfdb572f969b2af76e4c5e87a8a0db7da8f8a817cd7a5ba44f"
+      },
+      {
+        "path": "app/globals.css",
+        "sha256": "efc2909fe2630a7abb6c3533e817185a8c60d495ff2e9e9d5ef577e0afa254c5"
+      },
+      {
+        "path": "app/model-download.ts",
+        "sha256": "fd545770aee813a8095f9769816c1503ec0132271002cc6e68bee420eee19be3"
+      },
+      {
+        "path": "app/page.tsx",
+        "sha256": "f62ddd7960bdbe99ef3da18e5f220ff8e2e1879a592fa74d6b97d7216d76e6d9"
+      },
+      {
+        "path": "app/pointer-tap.ts",
+        "sha256": "6d019965f659271a549d50fdfe56e5501069da4fcdb77b330b8d7b1b805dd46d"
+      },
+      {
+        "path": "app/scene.tsx",
+        "sha256": "a90debd67d622543a7ede1fd07bc4cddd380a4977c7afcd21be08e70910cd2d8"
+      },
+      {
+        "path": "hooks/use-mobile.ts",
+        "sha256": "82bff42ff087bd5dc90a5d17609cc428b8688de92d1333073a839af5ad3c9cbd"
+      },
+      {
+        "path": "lib/utils.ts",
+        "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+      },
+      {
+        "path": "public/ATTRIBUTION.md",
+        "sha256": "40e5a3d5ce2a9bc942972daafa2da63c9ee8135216858dccf358d3dd85bde501"
+      },
+      {
+        "path": "scripts/compress-models.mjs",
+        "sha256": "5fd755d7e1830a836d82315b59cf46be5e121297ad76bd292ea32d94f2e69496"
+      },
+      {
+        "path": "scripts/convert-anatomy.py",
+        "sha256": "b2986054496ee14e735c07db4ece7a48021ee59c0f0564b09e40eebf80a38221"
+      },
+      {
+        "path": "scripts/optimize-anatomy.mjs",
+        "sha256": "d41b7a6415ff5f38ed62c712d92dfdcaa8a162934b8dcf7191b6f33c68ef363c"
+      },
+      {
+        "path": "scripts/validate-atlas.mjs",
+        "sha256": "33e3861d84b442212aabd4e5a8d4af466c250435944bcfd126ce352917246869"
+      },
+      {
+        "path": "scripts/validate-interactions.mjs",
+        "sha256": "005e25bd1a6ecfae7bf4887964f53cf6472715d96278dcf47bd5fe5a066d1827"
+      },
+      {
+        "path": "web/index.html",
+        "sha256": "0ac70a2c5f793183abec28f706a0dd1da6a90e68afb3bd840f341c04b8dfe8ea"
+      },
+      {
+        "path": "web/main.tsx",
+        "sha256": "1543ea514fc147fd35ba4958103532673a4163f1984ebeaacb865b9c5957bdba"
+      },
+      {
+        "path": "components/ui/accordion.tsx",
+        "sha256": "33e1c60ba503f4eb36f9a8b1f68b236174b11656d8efea6bac65abddda2f9019"
+      },
+      {
+        "path": "components/ui/alert-dialog.tsx",
+        "sha256": "ed0f1fc432bca4c72f9dd8741ae2268a00d2d3429ff1149bf463c4271b13d8e9"
+      },
+      {
+        "path": "components/ui/alert.tsx",
+        "sha256": "e760c470414c9e617d7292094146d906352fee3b1526b790a611d4a118e79196"
+      },
+      {
+        "path": "components/ui/aspect-ratio.tsx",
+        "sha256": "b7fb499905e441a0602392ce118828425ad059079060109694d01f9fac00ad20"
+      },
+      {
+        "path": "components/ui/attachment.tsx",
+        "sha256": "dcb9e899f1322158f016d75c400fa8cce9b797ea49bec65528bac686cee2ec5c"
+      },
+      {
+        "path": "components/ui/avatar.tsx",
+        "sha256": "342f32b683937b826cdff2999d5e3057836d459aa43eadb0c3538b818d195b9a"
+      },
+      {
+        "path": "components/ui/badge.tsx",
+        "sha256": "5706189b86e8670499fb33f37147dd6f65c39d59eef5211e34157f2952c35e32"
+      },
+      {
+        "path": "components/ui/breadcrumb.tsx",
+        "sha256": "b28b76d6f8d0feafbbeff2220cf83f9a6b03d8c81f0145b3af4c7d19933ab2c0"
+      },
+      {
+        "path": "components/ui/bubble.tsx",
+        "sha256": "dfb9f52ae3b89e4a419b336c3893ab6fb658fc324fb402759d878d54e3b2db5a"
+      },
+      {
+        "path": "components/ui/button-group.tsx",
+        "sha256": "79ad8fb6644a775cc49131c1aa737ca26cae6a563beec0fa52ef6e8d85202fab"
+      },
+      {
+        "path": "components/ui/button.tsx",
+        "sha256": "081d2a1cb4f3aec636a6894d9eff4e90d476d5db85b82d0399c1f4d18517112e"
+      },
+      {
+        "path": "components/ui/calendar.tsx",
+        "sha256": "e7bc682eff8f2215e6b0aab40d1afb7ee927c5f5bef348ccff207631b9261658"
+      },
+      {
+        "path": "components/ui/card.tsx",
+        "sha256": "625fce5e16577a45108a86d7afcd70b8931cb2032abe0d6a3faf1010f666d672"
+      },
+      {
+        "path": "components/ui/carousel.tsx",
+        "sha256": "7444126492d4e0b85b1270f0d83a0955350fa95b3d3fb7b88edc2a5c2b4e5d14"
+      },
+      {
+        "path": "components/ui/chart.tsx",
+        "sha256": "56ab0e0b41f0cc7902414e046ea4f710bdbf0b756028672ea8c7e5137a278f2b"
+      },
+      {
+        "path": "components/ui/checkbox.tsx",
+        "sha256": "56b2869e5478f38238e6a3d8aefabfbe8af565b38b2ffad06466487b3eacf154"
+      },
+      {
+        "path": "components/ui/collapsible.tsx",
+        "sha256": "3fdf7ef1ca89c4d85de5ecbb25813d0f572003a53b021baf43c5f3523e48ec97"
+      },
+      {
+        "path": "components/ui/combobox.tsx",
+        "sha256": "282041e2e8c52cc12e7bbc717bbd3f8c9c5ba18e7fa75b97053bc79687e1181e"
+      },
+      {
+        "path": "components/ui/command.tsx",
+        "sha256": "9c1eae65aa105935a34c6b736f673b71a2ef939dde53dce29d986221edbf1f9f"
+      },
+      {
+        "path": "components/ui/context-menu.tsx",
+        "sha256": "05c3646b452f5e3b9eb952eeba3d90657606d2b0875cb77652cdb5eadba0eb5c"
+      },
+      {
+        "path": "components/ui/dialog.tsx",
+        "sha256": "8bc85def62538b4e62e8530c6b0ba167a192c38519c05f104bf6e10de73b811f"
+      },
+      {
+        "path": "components/ui/direction.tsx",
+        "sha256": "2dea8a95accb1723db2454ccc858697d5b1f1454568cf4da5e8fcbd0cf7cc1ee"
+      },
+      {
+        "path": "components/ui/drawer.tsx",
+        "sha256": "b7ac53d0e5d1fed25fc3f2ac5f5a36e247ca684c677ac376829fa8a7c039b79e"
+      },
+      {
+        "path": "components/ui/dropdown-menu.tsx",
+        "sha256": "efc088f3d79f64cf96e222701ae23dcf385b53947b3cd57ffb7be6f5dadcbfe2"
+      },
+      {
+        "path": "components/ui/empty.tsx",
+        "sha256": "bf54bac4881b79f6a53f55e70c18640f58a058add88aed763c71be35c4f64f59"
+      },
+      {
+        "path": "components/ui/field.tsx",
+        "sha256": "79023ca89aae39f9cffa83a9483c9c672099b4547cc821486283db61c6ae9327"
+      },
+      {
+        "path": "components/ui/hover-card.tsx",
+        "sha256": "d8cb7270c5893213fc00b5f270f9bc461e2d7ce5b81f77b8778253a1aeda6a2c"
+      },
+      {
+        "path": "components/ui/input-group.tsx",
+        "sha256": "2e65ddecb4401220be374cc6cfc42344538266cafeb2e590b3c760c7ed6b490a"
+      },
+      {
+        "path": "components/ui/input-otp.tsx",
+        "sha256": "867f568259caac95f682d128d72e681b3fe7c31701a396eacc9284401d917a6a"
+      },
+      {
+        "path": "components/ui/input.tsx",
+        "sha256": "6763c86c34c1c07826386d376f5da8fe2e41585bff3615716d5da88915e088d8"
+      },
+      {
+        "path": "components/ui/item.tsx",
+        "sha256": "9c5e45e6c4aae5b9c4c1304e1f1208d32681ab616a6e0de9de6e0d6b22690592"
+      },
+      {
+        "path": "components/ui/kbd.tsx",
+        "sha256": "bdfb38a4f7b9b604e196b5cee0d86f12311dae72946f0dbf5928c8ad0638178f"
+      },
+      {
+        "path": "components/ui/label.tsx",
+        "sha256": "e4a6fb662c44a44c468d16d79d02b3a3e5bf7b77bd50aef1e586c4d9613df0f6"
+      },
+      {
+        "path": "components/ui/marker.tsx",
+        "sha256": "cd1e872384cf5001e48b4dc3cc2bb011eba9700561d41c83a89e872b60baf175"
+      },
+      {
+        "path": "components/ui/menubar.tsx",
+        "sha256": "a3715f8e8b78261f5784929c532e100759c58e831c91e842438730797bc9a124"
+      },
+      {
+        "path": "components/ui/message-scroller.tsx",
+        "sha256": "9512c586d1b0885cf3ae4f1c3dd4281cbdfec7428fe98ff48a66b4ba2a7319f4"
+      },
+      {
+        "path": "components/ui/message.tsx",
+        "sha256": "2fedcc64ed8563a44f6697615e77574d96f819fe6e5e2fa8a555e30f8ed6bbd7"
+      },
+      {
+        "path": "components/ui/native-select.tsx",
+        "sha256": "3aafb74b98c039dae4eb2c64c47ec6f5d61fdc888c057de47550346f702f434b"
+      },
+      {
+        "path": "components/ui/navigation-menu.tsx",
+        "sha256": "c8e64bf5241145b512ae18f1062da8275691edf927736496a3860bec76ad6fa1"
+      },
+      {
+        "path": "components/ui/pagination.tsx",
+        "sha256": "1f3c1713e8824cca7c3c0edacf9da7b0114bfda58640771b8fe0bc6179b370ce"
+      },
+      {
+        "path": "components/ui/popover.tsx",
+        "sha256": "7376624438588e2d64b6e0c5cdf82cbc5fd4530bbcf1f0235c5f3ee08d12e877"
+      },
+      {
+        "path": "components/ui/progress.tsx",
+        "sha256": "0d8ddec9731940e104b851cf3ac67d2fa8589b289824317a9e8f326e090ba65a"
+      },
+      {
+        "path": "components/ui/radio-group.tsx",
+        "sha256": "43f2d6c2f5bdd4a26c57d93e6f141be20472f9bb8777d9a0d61cd8a5e281a999"
+      },
+      {
+        "path": "components/ui/resizable.tsx",
+        "sha256": "ea7b85817d4dc70866e0bcf15264e7e1bd7e1893eb4404261fbc23a4d6ff9029"
+      },
+      {
+        "path": "components/ui/scroll-area.tsx",
+        "sha256": "730c4cc49f8f1b705eb1389cd32c774056a0a2a7a48a9b092cbe44c608be3a0b"
+      },
+      {
+        "path": "components/ui/select.tsx",
+        "sha256": "45489c502a21fdd5271481d64ad8f762181c9653d8d26bdc6f75450b78c3c852"
+      },
+      {
+        "path": "components/ui/separator.tsx",
+        "sha256": "92ad5065f03d7edc98f367e729f3ec84ece1d99ee8cd0d3a8137f266d4ab3d8a"
+      },
+      {
+        "path": "components/ui/sheet.tsx",
+        "sha256": "adb432b6f9d7a4733caa45ba8bf510a8a7ff0f6d0dd3aa1f013959fb61268234"
+      },
+      {
+        "path": "components/ui/sidebar.tsx",
+        "sha256": "aa3322ca63f098aa1d2abf750f9d097da07362fce25939357f2cefc9b6a03988"
+      },
+      {
+        "path": "components/ui/skeleton.tsx",
+        "sha256": "4c342102b2bbf5bd8c04fa151fe5c13c42faee2f9587a3586c27322020ca35d1"
+      },
+      {
+        "path": "components/ui/slider.tsx",
+        "sha256": "af657e73d672f4dd205f19abf151d21a172cf36abfdca49fd7014a20e12367a9"
+      },
+      {
+        "path": "components/ui/spinner.tsx",
+        "sha256": "8ddbb330e5564a1f53026da36c2322ed4b027687e91a88f63348ab10f26ae0cb"
+      },
+      {
+        "path": "components/ui/switch.tsx",
+        "sha256": "04b085443a1c6a72d408e6eb7dd45df881ca27814415b81b39f614806b52c8fc"
+      },
+      {
+        "path": "components/ui/table.tsx",
+        "sha256": "88f2ba7877eea7f34a5da18b7fa096eb2c7bed602677ce54f5494b494c5afc2e"
+      },
+      {
+        "path": "components/ui/tabs.tsx",
+        "sha256": "dd914d769bc223b5d5ea56839a7752e534eb475f8d2897d5675606c368bbca1f"
+      },
+      {
+        "path": "components/ui/textarea.tsx",
+        "sha256": "7ae7f0f5d907be24658652c771fee1685193102bf3200aafbf578d144d379fbf"
+      },
+      {
+        "path": "components/ui/toast.tsx",
+        "sha256": "9126b09f47f0b117bf748cf19aaa4987a1f72d0813d10bfc4b4b0128e6439e48"
+      },
+      {
+        "path": "components/ui/toggle-group.tsx",
+        "sha256": "9b006523be0fe3230cd75f7adf78a501829d594fd3506c56c55bb38211ff1850"
+      },
+      {
+        "path": "components/ui/toggle.tsx",
+        "sha256": "6bf41d6f6ffe602c3e28274a82ac029e6ee1331ba3c670a6d814048e1823cc28"
+      },
+      {
+        "path": "components/ui/tooltip.tsx",
+        "sha256": "b86e51969931c3d62e88d0bdacd1cd8219105dc6d6b6a588a80011bf92e987cd"
+      },
+      {
+        "path": "public/models/atlas.json",
+        "sha256": "c359f4bcd2cba90b7411d66d5e9fc04dc81294d46cd5c1e8b212c824f2e5bbee"
+      }
+    ]
+  },
+  {
+    "path": "source_snapshots\\SymptoSphere_d4b7c20_source.zip",
+    "bytes": 409196,
+    "sha256": "bf1ed43f8d65aadf81fc49a816cd62eed20d39d53bd5ebfe4cb1c4b5cece32fa",
+    "members": [
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/.devcontainer/devcontainer.json",
+        "sha256": "c4e050630976d023f100cf41da7cf96219ea35ea33920f076a69572f77e6cb02"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/.gitignore",
+        "sha256": "eb953d1f3135bba40042e1fe859a3317caff7e72edec375d9b933b690fae2fe7"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/.vercelignore",
+        "sha256": "67e6423f5780e94f81b552eacf1f2cacb3ca082430ba6d6cee991dbb34e8d40b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ML_models/.readme",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ML_models/best_model.joblib",
+        "sha256": "99c217d5d4bca629191ac176e856fbb5ce8b33c6b8eef89d2f0ffdebe25e9eef"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/README.md",
+        "sha256": "0a950370fe1afd5fcda01eeea514303253b1c455faea14738a718288f95b2d2b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/api/index.py",
+        "sha256": "4809498ca94425373c75528fecdb58a6feba63e23867eda9d2692980561d1533"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/app.py",
+        "sha256": "49cfd16c5f148db565def96700ee29594ccecf3a9d6565f4f31310d20d775c00"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/assets/.readme",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/assets/feature_importance.png",
+        "sha256": "f54c3bf4b698bf0f0e2acaac77f7e60dde5db3bffd90a79df30b2742810f4e95"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/assets/model_comparison.png",
+        "sha256": "f33f3f29650453fd33677742e59cb6004049e70250afe1fb6ee07fe134146ae2"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/database/__init__.py",
+        "sha256": "902c83d88ad499f736dd544c83f6ddeeb79358f3756f161236dd14d8e23db0fb"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/database/db_setup.py",
+        "sha256": "c80a80c0aeb33faa860418e6f8269de494d28824173d7ce9034faee2f96bb0eb"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/database/disease_data.py",
+        "sha256": "db8907996f84b031dee4449b4965eb55eb7ebca7350b8e376204bc1155b818d9"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/database/sympthosphere.db",
+        "sha256": "b0b1d454fda65e33b6255cf2d092c38467d0f348cb9dcd6e63e7742119daa199"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/dataset/.readme",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/dataset/test_data.csv",
+        "sha256": "3b9d0dda2a870e7cf6273c41e40ebd2a7f5634434a120840e96223a1dd80b0b7"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/dataset/training_data.csv",
+        "sha256": "ed0017701c9ed78f8342871e743f1ce39351f30612f620aefdccc398ee1c4f27"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ml/__init__.py",
+        "sha256": "2adf0001d4de68418e8aa5deff5684a3f37d18706ebd3226b2dba6f444eadde2"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ml/model_trainer.py",
+        "sha256": "5dca59f0af9df92be3074930f9f6fbaa6d0d93bc0c4f31a152bf423e8f6e2233"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ml/models/model_bundle.joblib",
+        "sha256": "4101964bfc15056b700ffe7b3d776e13aa57b3c17658e02a8fb7c1fd3e650c6e"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ml/models/model_report.json",
+        "sha256": "405e07a1aa4fbecab03a04c51e52ff54c7021bc742f1de5b2de41868ebbfc28e"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/ml/predictor.py",
+        "sha256": "4d279a9b7bd4bba021467429446729a21b7af66e6a1d4f9040a57dffefc67b9f"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/requirements-train.txt",
+        "sha256": "7d37df4dd7a1256b3e11c5753d6aa2c5e1d6d0899be2f4399a9ab1fd9a51187d"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/requirements.txt",
+        "sha256": "1c96dbb6a395a9dea483a9ba4892e9b3c68f4b06e0b6e2111e4c9376479c4b13"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/runtime.txt",
+        "sha256": "22fa90cd1f8121c0165c6df911d1ea71452a179460fbe371834bb792ba42f6c9"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/female_1.svg",
+        "sha256": "e1f1b5cabc04ab74517f9cb4ec7e6eaff4738304c202e0d637a6c55124f9b2aa"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/female_2.svg",
+        "sha256": "c82500f32256f0a2e41b93abbe44e758f02f61dfeb8ee0010b74dc73f335d727"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/female_3.svg",
+        "sha256": "7fba7186676c52cb0cb1f7e2907c3b84108070bd6827bf1e146a48979dd9aadf"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/female_4.svg",
+        "sha256": "9141b610525eea8ae85c8809b3af7e6877faa67d94b85ceae2a8da67c84a6190"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/female_5.svg",
+        "sha256": "89ea9cc160f7f7ffb29b2561323eb68b5a8288257986b1eb0ca4861ebc1d4340"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/male_1.svg",
+        "sha256": "81644d7dbb787b373b98d2ac9f9fe34552ead6daf542da893f0e748d9e8c4078"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/male_2.svg",
+        "sha256": "bbef523a751cd92f4712333e1cc94b3827e02c84d53f8e16b902d4c6bebe2777"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/male_3.svg",
+        "sha256": "b06e8bb110d80a2d7d07da70bd24c396ecfc0b2e5171a385dc5c6aa31a740d48"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/male_4.svg",
+        "sha256": "570f2ca3ade3ccea37c8de14ca55a93794ea46e001ca5008515e24e8b58422bb"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/male_5.svg",
+        "sha256": "efc1472b7c0b32515aaa8cd9ae692653640fd0a78c4cad183d5708c28a53558d"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/assets/doctors/male_6.svg",
+        "sha256": "798fdf1c78f219b22c8b4575d4926ca4bdbbe6bc66fd12ee2b4dae7630aa7ce5"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/css/style.css",
+        "sha256": "31be7dfad53dd7ddc41fd95fd92937aada45d6ac6bfc63947edd040667466668"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/js/lang.js",
+        "sha256": "96aafad2311b9b84872c67c9b2f77dcd366fc358d4aac9afafb78d2b1d41b3ef"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/js/main.js",
+        "sha256": "6676fd1a7c8b33605ee27abf047103798d0007a78f08a43e4c48f20b88e3d2b6"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/js/results.js",
+        "sha256": "fefdfa322017cd9b7e208ed2e5c91f63c5d63465dc8b06e7cfab4f0bac61b8df"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/static/js/symptoms.js",
+        "sha256": "b414bcdc6b4c59994238a6aaa50f784045743d6b7ff31ff171a461974028ea17"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/templates/about.html",
+        "sha256": "7f8aa4a68fa379988fbea47315f018464efa97e5767dea0423d0984f149f0ecf"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/templates/base.html",
+        "sha256": "bb03d602d6f74314b2f4fcf24d4c979ac8ced09028aa563c6cbf8d8de6468b53"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/templates/error.html",
+        "sha256": "2c5c7ff12bc195ef3e81438f6121c041e3461b361da2fe719f3fe33adf8215f5"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/templates/index.html",
+        "sha256": "68d9b833d6be710d751eaf097783e6a36e1f4180a368cf8245ac790a56230669"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/templates/predict.html",
+        "sha256": "ba6ea22b7bb4b638d73b46406418e67844a15640da14bbefa05174f0494ff479"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/templates/results.html",
+        "sha256": "d527f9a54d1f3baf8764dc8c57a889c2ebd931bac7ac8c04a225f0eed2b44749"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/train.py",
+        "sha256": "a4ab526454f69d3cf565109bfea7c2d22a241225c59e3d8bf543c794eba9d008"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/translations/en.json",
+        "sha256": "cb8845a72bd41d311937c965cbf2226cac5f4a7b9b51c4a2735919fe0d899e7b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/translations/hi.json",
+        "sha256": "140e118228def2e2d11176a031c67e226d8123d1848e58d11dcaa8f03e938930"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/utils/.readme",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/utils/prediction.py",
+        "sha256": "f07a2e838a18fa3e3ce9a58ef3e5936a38e899f99db1767655850e5d1ab9d28a"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/utils/preprocessing.py",
+        "sha256": "b855e4bff3c59feda58240bf02bbce0ed354ed6c71f33f6b8f7d3935a4db6acc"
+      },
+      {
+        "path": "SymptoSphere-d4b7c20bb423286dd2890f2907d82767eeb2bb59/vercel.json",
+        "sha256": "2ea5577823e1289750035a13f772d916fcc03004bcf98a7cb1227ffc0998fb86"
+      }
+    ]
+  },
+  {
+    "path": "SYMPTOSPHERE_2_ARCHITECTURE.md",
+    "bytes": 16781,
+    "sha256": "aa0208e213900243252e86198d62f3898a0a78e3e9ec655b6ae9e6f6a6a5369e",
+    "text_lines": 137
+  }
+]

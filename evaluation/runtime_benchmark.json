@@ -1,0 +1,27 @@
+{
+  "environment": "Windows-11-10.0.26100-SP0",
+  "cold_import_and_model_load_ms": 1771.9584999995277,
+  "memory_after_import": {
+    "working_set_bytes": 151339008,
+    "peak_working_set_bytes": 152133632
+  },
+  "endpoints": {
+    "/api/predict": {
+      "samples": 30,
+      "mean_ms": 9.594306666622288,
+      "p95_ms": 9.833365000122285,
+      "min_ms": 9.279899999455665
+    },
+    "/api/next-question": {
+      "samples": 30,
+      "mean_ms": 9.17226333343327,
+      "p95_ms": 9.373505000166915,
+      "min_ms": 8.850100000927341
+    }
+  },
+  "note": "Local Flask test-client wall-clock; model load is fresh-process, OS file cache not cleared. Includes explanations/question selection. Not hosted latency.",
+  "memory_after_requests": {
+    "working_set_bytes": 152350720,
+    "peak_working_set_bytes": 152350720
+  }
+}

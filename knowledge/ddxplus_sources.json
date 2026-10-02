@@ -1,0 +1,71 @@
+[
+  {
+    "file": "ddx_readme.md",
+    "url": "https://raw.githubusercontent.com/mila-iqia/ddxplus/main/README.md",
+    "bytes": 13625,
+    "sha256": "257fbd5ff7c197b1641f16907beeed862aaddebf22b4303f368e613e424afa05"
+  },
+  {
+    "file": "ddx_article.json",
+    "url": "https://api.figshare.com/v2/articles/22687585",
+    "bytes": 5635,
+    "sha256": "5859460d36834eaea1e9692ca37d070458b6c456bd91e40879b9f8ff55596dab"
+  },
+  {
+    "file": "ddx_paper.pdf",
+    "url": "https://arxiv.org/pdf/2205.09148",
+    "bytes": 979769,
+    "sha256": "3895f2690a7046dcd33a9271f0f0b20eb7baf738ec1d5c8d67f61f2f43862502"
+  },
+  {
+    "file": "ddx_citation.cff",
+    "url": "https://raw.githubusercontent.com/mila-iqia/ddxplus/main/CITATION.cff",
+    "bytes": 481,
+    "sha256": "3f2f090e2852275dd925a61c357977d50d5ec479c44e497e03cba8a27043fad6"
+  },
+  {
+    "file": "release_evidences.json",
+    "url": "https://ndownloader.figshare.com/files/40278013",
+    "bytes": 120263,
+    "sha256": "281c78b044ae60514e28ecc9052d08a8225dd3e2db3f00f8788b99c47b05e0c0",
+    "md5": "0660962abe0bbf99e1fb77188c253597",
+    "figshare_md5": "0660962abe0bbf99e1fb77188c253597",
+    "md5_matches": true
+  },
+  {
+    "file": "release_test_patients.zip",
+    "url": "https://ndownloader.figshare.com/files/40278016",
+    "bytes": 18986243,
+    "sha256": "ad3bb981f3453fd7abffb35cc595a1c02197e409c581bff97c1265c33eb00d23",
+    "md5": "6fd53d331cf19ed4439bf4f46b92ee94",
+    "figshare_md5": "6fd53d331cf19ed4439bf4f46b92ee94",
+    "md5_matches": true
+  },
+  {
+    "file": "release_train_patients.zip",
+    "url": "https://ndownloader.figshare.com/files/40278019",
+    "bytes": 140923730,
+    "sha256": "174ae1d56f36a15b7144838ecd214e1e1748a5369fc90c559529b6dc6ecfb218",
+    "md5": "f75a78420ccb061951daa4db2d62139b",
+    "figshare_md5": "f75a78420ccb061951daa4db2d62139b",
+    "md5_matches": true
+  },
+  {
+    "file": "release_validate_patients.zip",
+    "url": "https://ndownloader.figshare.com/files/40278022",
+    "bytes": 18706053,
+    "sha256": "625a96855becf0efe5da339fd3d440aa99597d48f784957a97dacc3fceaa7e40",
+    "md5": "e4db88e9082f18410de6fd0cb7e74d18",
+    "figshare_md5": "e4db88e9082f18410de6fd0cb7e74d18",
+    "md5_matches": true
+  },
+  {
+    "file": "release_conditions.json",
+    "url": "https://ndownloader.figshare.com/files/62561569",
+    "bytes": 20889,
+    "sha256": "56edf4682d8e86a4209fc3a33932e50ce03d1cc1fecc326c26d5ef8fa5c24890",
+    "md5": "a992eadcff3099dd72e1820fbd2115aa",
+    "figshare_md5": "a992eadcff3099dd72e1820fbd2115aa",
+    "md5_matches": true
+  }
+]

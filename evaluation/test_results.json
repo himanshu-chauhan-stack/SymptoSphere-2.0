@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-02",
+  "pytest": {
+    "tests": 36,
+    "errors": 0,
+    "failures": 0,
+    "skipped": 0,
+    "passed": 36,
+    "junit": "evaluation/pytest.xml",
+    "final_command_note": "Fresh workspace basetemp and disabled cache provider; default Windows temp/cache permission failure corrected without changing tests."
+  },
+  "browser": {
+    "scenarios": 14,
+    "passed": 14,
+    "page_errors": [],
+    "version": "154.0.8037.93",
+    "report": "evaluation/browser/browser_report.json",
+    "environment": "Headless installed Chrome, isolated temporary profile, software WebGL; 360px mobile emulation."
+  },
+  "other_completed_checks": [
+    "pip check",
+    "Python compileall",
+    "JavaScript node --check (final symptoms.js and lang.js)",
+    "TypeScript npm run check",
+    "Vite npm run build",
+    "Every compressed Atlas geometry buffer validated",
+    "Atlas interaction validation",
+    "118 original Atlas source files rehashed unchanged",
+    "Legacy baseline reproduction CLI"
+  ],
+  "local_staging": {
+    "files": 29,
+    "bytes": 36439227,
+    "deployed": false
+  },
+  "frozen_integrity": {
+    "bundle_sha256": "6b7e471e8108b2b3192d2c4839a3ad943a4b1ec39b94bbe75a0bff2953e01635",
+    "candidate_report_hash_verified": true,
+    "frozen_code_hashes_verified": [
+      "ddxplus_data.py",
+      "encoding.py",
+      "evaluate.py",
+      "evidence_schema.py",
+      "explain.py",
+      "predictor.py",
+      "question_engine.py",
+      "test_ddxplus.py",
+      "text_extraction.py",
+      "train_ddxplus.py",
+      "__init__.py"
+    ]
+  },
+  "not_run": [
+    "Production push/deployment",
+    "Vercel build/preview",
+    "Linux hosted runtime",
+    "Real-patient or clinician validation",
+    "Manual screen-reader testing",
+    "Clean-clone Git migration"
+  ]
+}

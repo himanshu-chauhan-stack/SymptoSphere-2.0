@@ -1,0 +1,10 @@
+{
+  "original_atlas_files_rechecked": 118,
+  "original_atlas_changed_files": [],
+  "viewer_meshes": 2234,
+  "concepts": 3432,
+  "triangles": 2288268,
+  "chunks": 15,
+  "geometry_validation": "node scripts/validate-atlas.mjs passed on every compressed buffer",
+  "interaction_validation": "node scripts/validate-interactions.mjs passed packing/tap/drag/multitouch/empty-view checks"
+}

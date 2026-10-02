@@ -1,0 +1,15 @@
+# Preserved application architecture
+
+Flask `create_app` and Jinja routes remain the primary application, including the compatibility WSGI entry `api/index.py`. The optional adapted React/Three viewer is a separate static iframe built under `/static/body-map`, loaded only after user action. It does not replace Flask or become an inference feature.
+
+1. Browser owns an ephemeral versioned evidence state. No health state enters URLs, cookies, localStorage or a database. POST bodies are size-limited and validated; responses are no-store. Retired DB/trainer/presentation content is under `legacy`, excluded from deployment. Infrastructure logging behavior is outside this application-level guarantee.
+2. Canonical IDs, types, value domains, defaults and parent applicability come from pinned raw DDXPlus JSON. A shared offline/runtime encoder separates values and knownness, including demographic knownness. Metadata and hashes protect the trusted artifact boundary; no pickle uploads or startup training.
+3. Independent sourced explicit safety rules run before any model, even when the artifact is missing. Unknown/negative checks never give clearance. Unsupported/unsure/empty/history-only states return no forced ranking.
+4. The selected single classifier ranks 49 possible conditions. Actual answer-group removal supplies supporting/contradicting model effects. Sparse uncertainty is explicit; percentages, prescriptions and invented professionals are absent.
+5. Follow-up questions use training-only frequencies and batched hypothetical classifier evaluation; no hidden test evidence or reference differential guides question choice. Unknown skips persist until a user edits them. Seven default prompts can be extended explicitly.
+6. Narrow English phrase matching returns canonical suggestions and exact text spans, with uncertain/negated context handling. User confirmation is mandatory. No external LLM receives text; unmatched text is not interpreted.
+7. The message bridge requires same origin and exact mounted frame source, schema/version/field allowlists and valid known concept/part membership. Unmapped structures only route to general navigation. Incoming context updates visualization; only an explicit user selection sends navigation out. Answers change only through evidence controls.
+
+APIs: `GET /api/health`, `GET /api/evidences`, `POST /api/predict`, `POST /api/next-question`, `POST /api/extract-symptoms`, `GET /api/translations/<en|hi>`. State schema: `ddxplus-en-v2-app1`; unknown demographics use age=null, dataset_sex=unknown. Response/model/explanation fields are educational. Legacy `symptoms` form payload is deliberately rejected.
+
+Browser coverage includes keyboard controls, 360px width, reduced motion, SSR/no-JavaScript form, lazy requests, WebGL failure, model-service failure, answer preservation, skip and parent invalidation. It is not a comprehensive accessibility, penetration, clinical or device certification. Condition-specific clinical cards/specialties and full reviewed Hindi translation are deliberately deferred and disclosed.

@@ -1,0 +1,11 @@
+{
+  "version": "explicit-safety-v1",
+  "engineering_review_date": "2026-10-02",
+  "clinical_review_status": "Not independently reviewed by a clinician; limited educational safety prompts, not exhaustive triage",
+  "rules": [
+    {"id": "persistent_chest", "any": ["sudden_persistent_chest_pain"], "source": "https://www.nhs.uk/symptoms/chest-pain/", "source_review_date": "2023-08-08"},
+    {"id": "radiating_chest", "any": ["radiating_chest_pain"], "source": "https://www.nhs.uk/symptoms/chest-pain/", "source_review_date": "2023-08-08"},
+    {"id": "associated_chest", "any": ["chest_pain_with_sweat_sickness_lightheadedness_breathlessness"], "source": "https://www.nhs.uk/symptoms/chest-pain/", "source_review_date": "2023-08-08"},
+    {"id": "fast_24h", "any": ["sudden_face_weakness_24h", "sudden_arm_weakness_24h", "sudden_speech_problem_24h"], "source": "https://www.nhs.uk/conditions/stroke/symptoms/", "source_review_date": "2024-09-12"}
+  ]
+}
