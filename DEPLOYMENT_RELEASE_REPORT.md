@@ -9,6 +9,7 @@ Date: 2026-10-02
 - Visibility: Public
 - Initial release commit: `18eca8a2eb4785668148f6a27960fabe20008ca6`
 - Runtime asset fix commit: `b1f2735`
+- Camera framing fix: widened exploded Atlas fit margin for the 100% view.
 - The repository contains the active application, inference artifact, compiled Atlas assets, tests, documentation, and evaluation evidence. The inactive `legacy/` source snapshot is excluded.
 
 ## New Vercel
@@ -34,6 +35,7 @@ Date: 2026-10-02
 - Hosted API: empty evidence returned `insufficient_information` from `/api/next-question`.
 - Hosted API: a confirmed cough state returned three ranked conditions from `/api/predict`, with no probability fields.
 - Production browser suite: 14 scenarios passed with zero page errors, including actual Atlas rendering, selection, responsive behavior, no-WebGL fallback, and no-JavaScript flows.
+- The 100% exploded Atlas view was visually checked separately and keeps the anatomy inventory within the viewer frame with comfortable margins.
 - Local staging: 29 static files copied and hashed by `scripts/prepare_staging.py`.
 
 ## Runtime

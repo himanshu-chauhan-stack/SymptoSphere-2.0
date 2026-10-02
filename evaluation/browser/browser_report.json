@@ -101,15 +101,15 @@
       "method": "GET"
     },
     {
+      "url": "https://symptosphere-2-0.vercel.app/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
       "url": "https://symptosphere-2-0.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
       "url": "https://symptosphere-2-0.vercel.app/static/js/symptoms.js",
-      "method": "GET"
-    },
-    {
-      "url": "https://symptosphere-2-0.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
@@ -265,15 +265,15 @@
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0.vercel.app/static/css/local-fonts.css",
-      "method": "GET"
-    },
-    {
       "url": "https://symptosphere-2-0.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
       "url": "https://symptosphere-2-0.vercel.app/static/js/symptoms.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://symptosphere-2-0.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
@@ -301,15 +301,15 @@
       "method": "GET"
     },
     {
+      "url": "https://symptosphere-2-0.vercel.app/static/css/local-fonts.css",
+      "method": "GET"
+    },
+    {
       "url": "https://symptosphere-2-0.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
       "url": "https://symptosphere-2-0.vercel.app/static/js/symptoms.js",
-      "method": "GET"
-    },
-    {
-      "url": "https://symptosphere-2-0.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
