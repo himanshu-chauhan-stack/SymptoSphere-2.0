@@ -61,267 +61,267 @@
   "page_errors": [],
   "requests": [
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/style.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/style.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/lang.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/local-fonts.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/translations/en",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/translations/en",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/mark.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/mark.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/predict",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/style.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/style.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/lang.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/symptoms.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/symptoms.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/local-fonts.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/translations/en",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/translations/en",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/mark.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/mark.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/predict",
       "method": "POST"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/next-question",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/next-question",
       "method": "POST"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/next-question",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/next-question",
       "method": "POST"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/extract-symptoms",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/extract-symptoms",
       "method": "POST"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/index.html",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/index.html",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/assets/index-B4oV7G0y.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/assets/index-u2pyPd-u.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/assets/index-CTZYUJp1.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/assets/index-CTZYUJp1.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/atlas.json",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/atlas.json",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-0.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-0.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-1.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-1.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-2.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-2.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-3.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-3.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-4.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-4.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-5.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-5.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-6.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-6.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-7.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-7.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-8.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-8.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-9.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-9.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-10.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-10.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-11.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-11.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-12.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-12.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-13.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-13.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/body-map/models/body-14.bin.gz",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/body-map/models/body-14.bin.gz",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/predict",
       "method": "POST"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/predict",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/style.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/style.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/lang.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/symptoms.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/local-fonts.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/symptoms.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/translations/en",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/translations/en",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/mark.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/mark.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/translations/hi",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/translations/hi",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/predict",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/style.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/style.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/local-fonts.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/lang.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/symptoms.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/symptoms.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/translations/en",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/translations/en",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/mark.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/mark.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/predict",
       "method": "POST"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/predict",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/style.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/style.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/body-outline.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/lang.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/css/local-fonts.css",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/js/symptoms.js",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/lang.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/css/local-fonts.css",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/js/symptoms.js",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/translations/en",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/translations/en",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/static/assets/mark.svg",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/static/assets/mark.svg",
       "method": "GET"
     },
     {
-      "url": "https://symptosphere-2-0-ri8g1hixo-drmonsares-projects.vercel.app/api/predict",
+      "url": "https://symptosphere-2-0-go487aj30-drmonsares-projects.vercel.app/api/predict",
       "method": "POST"
     }
   ],
