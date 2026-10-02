@@ -6,6 +6,9 @@ The app supports explicit Present / Absent / Unknown answers, typed categorical 
 
 The supplied Human Atlas is integrated as a lazy static React/Three iframe. Opening or selecting anatomy filters questions without adding symptoms. Text regions remain usable without WebGL. Geometry/code license notices are retained. The primary app remains Flask, not a new anatomy application.
 
+Released repository: https://github.com/himanshu-chauhan-stack/SymptoSphere-2.0
+Production deployment: https://symptosphere-2-0.vercel.app/
+
 ## Run locally
 
 Python **3.12**, with exact runtime dependencies and the shipped model/manifest:
@@ -27,7 +30,7 @@ Open http://127.0.0.1:5000 . No startup training, data download, API key, databa
 
 The candidate comparison selected **LogisticRegression** on the predeclared sparse-evidence validation score, ahead of HistGradientBoosting. One classifier performs inference; no ensemble is claimed. Scores, counts, intervals, reliability, per-class support, policy comparisons and known methodological limits are in [EVALUATION_REPORT.md](EVALUATION_REPORT.md). The independent calibration gate failed, and UI percentages are withheld.
 
-See [MIGRATION_NOTES.md](MIGRATION_NOTES.md) for exact local commands, browser tests, anatomy rebuild, offline DDXPlus reproduction, safe Git migration and staging instructions. No Git metadata was supplied; no push or deployment was performed. Production main/Vercel promotion requires explicit approval.
+See [MIGRATION_NOTES.md](MIGRATION_NOTES.md) for exact local commands, browser tests, anatomy rebuild, offline DDXPlus reproduction, safe Git migration and staging instructions. The released source is pushed to the new repository above; the legacy repository and deployment were not modified.
 
 ## Implementation records
 

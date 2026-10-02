@@ -222,3 +222,6 @@ evaluation/browser/*.png
 tests/test-results/
 data_raw/
 training_work/
+
+.vercel
+.env*
