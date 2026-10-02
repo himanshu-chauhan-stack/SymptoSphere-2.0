@@ -8,6 +8,7 @@ Date: 2026-10-02
 - URL: https://github.com/himanshu-chauhan-stack/SymptoSphere-2.0
 - Visibility: Public
 - Initial release commit: `18eca8a2eb4785668148f6a27960fabe20008ca6`
+- Runtime asset fix commit: `b1f2735`
 - The repository contains the active application, inference artifact, compiled Atlas assets, tests, documentation, and evaluation evidence. The inactive `legacy/` source snapshot is excluded.
 
 ## New Vercel
@@ -17,10 +18,12 @@ Date: 2026-10-02
 - Production URL: https://symptosphere-2-0.vercel.app/
 - Deployment URL: https://symptosphere-2-0-gfmne9s1c-drmonsares-projects.vercel.app
 - Inspect URL: https://vercel.com/drmonsares-projects/symptosphere-2-0/CzjEYQX91k2dkruKtkPc6kWPFhWu
+- Final production deployment: `M7Ltftwd53Cry8d2bcCuNNef8heW`
 - Build status: Ready
 - The first CLI deployment became the project's initial production deployment automatically. No `--prod` promotion was used.
 - Vercel GitHub auto-linking was not completed because the Vercel account did not have repository admin/write integration permission. The deployment was created from the authenticated CLI instead.
 - Vercel SSO deployment protection was disabled for this new project after deployment; the production URL was then verified anonymously with HTTP 200 responses.
+- The initial blank SVG/Atlas state was caused by over-broad `assets/` exclusions in `.vercelignore` and `vercel.json`, which removed `static/assets` and `static/body-map/assets`. Both filters were corrected and the validated preview was promoted.
 
 ## Verification
 
@@ -30,6 +33,7 @@ Date: 2026-10-02
 - Hosted API: `/api/health` returned `ready: true` with model `LogisticRegression`.
 - Hosted API: empty evidence returned `insufficient_information` from `/api/next-question`.
 - Hosted API: a confirmed cough state returned three ranked conditions from `/api/predict`, with no probability fields.
+- Production browser suite: 14 scenarios passed with zero page errors, including actual Atlas rendering, selection, responsive behavior, no-WebGL fallback, and no-JavaScript flows.
 - Local staging: 29 static files copied and hashed by `scripts/prepare_staging.py`.
 
 ## Runtime
