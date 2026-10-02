@@ -20,7 +20,7 @@ Date: 2026-10-02
 - Build status: Ready
 - The first CLI deployment became the project's initial production deployment automatically. No `--prod` promotion was used.
 - Vercel GitHub auto-linking was not completed because the Vercel account did not have repository admin/write integration permission. The deployment was created from the authenticated CLI instead.
-- Vercel Deployment Protection is enabled for this Hobby project; authenticated Vercel CLI checks were used for protected deployment verification.
+- Vercel SSO deployment protection was disabled for this new project after deployment; the production URL was then verified anonymously with HTTP 200 responses.
 
 ## Verification
 
@@ -49,6 +49,6 @@ Date: 2026-10-02
 
 - This is an educational synthetic DDXPlus demonstration, not clinical validation, diagnosis, or risk estimation.
 - The calibration display gate failed, so UI probability percentages remain hidden.
-- Vercel Deployment Protection must be changed in the new project's settings before unauthenticated public browsing is available; no protection setting was changed on the legacy project.
+- The new project is publicly browsable after disabling its initial SSO deployment protection; no protection setting was changed on the legacy project.
 - No clinician review, real-patient/India validation, exhaustive triage review, or broad mobile GPU/accessibility certification was performed.
 - The optional Atlas viewer retains a large JavaScript chunk warning and downloads roughly 33 MB of compressed geometry when opened.
