@@ -12,7 +12,6 @@ database/
 utils/
 dataset/
 ML_models/
-assets/
 body_explorer/
 tests/
 evaluation/
